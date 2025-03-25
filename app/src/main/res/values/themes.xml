@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- res/values/styles.xml -->
+
+    <style name="Theme.ValentinesApp" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+</resources>

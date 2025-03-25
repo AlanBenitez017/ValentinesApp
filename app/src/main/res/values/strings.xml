@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ValentinesApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lb_question_valentine">Would you like to be my Valentine?</string>
+    <string name="i_love_you_3"><![CDATA[I love you <3 so much]]></string>
+</resources>
